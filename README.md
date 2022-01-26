@@ -15,6 +15,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- BEM Method
 
 ## Author
 
