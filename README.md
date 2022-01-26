@@ -8,7 +8,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ### Links
 
-- Solution URL: https://nicopom.github.io/QR-code-component-card/
+- Solution URL: https://nicopom.github.io/QR-Code-Component-Card/
 
 ### Built with
 
