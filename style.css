@@ -1,0 +1,82 @@
+/*to have proper padding*/
+*,
+*::before,
+*::after{
+	box-sizing: border-box;
+}
+
+/*page layout*/
+
+html{
+	height: 100%;
+}
+body{
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.card{
+	width: 375px;
+	display: flex;
+	flex-direction: column;
+	padding: 18px;
+}
+
+.card__image{
+	max-width: 100%;
+}
+
+.card__text{
+	padding: 15px;
+	display: flex;
+	flex-direction: column;
+	gap : 20px;
+	margin: 10px 0px 10px 0px;
+}
+
+.card__text__top{
+	text-align: center;
+}
+
+.card__text__bottom{
+	text-align: center;
+}
+
+.paragraph{
+	margin: 0;
+}
+
+
+
+/*page style*/
+
+body{
+	font-family: 'Outfit', sans-serif;
+	font-size: 15px;
+	color: hsl(220, 15%, 55%);
+	background: hsl(212, 45%, 89%);
+}
+
+.card{
+	background: hsl(0, 0%, 100%);
+	border-radius: 20px;
+	box-shadow: 10px 15px 60px hsl(220, 15%, 55%);	
+}
+
+.card__image{
+	border-radius: 15px;
+}
+
+.card__text__top{
+	font-size: 25px;
+	font-weight: 700;
+	color: hsl(218, 44%, 22%);
+}
+
+.card__text__bottom{
+	font-weight: 400;
+	font-size: 18px;
+}
