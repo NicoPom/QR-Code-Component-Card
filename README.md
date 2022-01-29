@@ -19,4 +19,4 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ## Author
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/Anguluth
+- Frontend Mentor - https://www.frontendmentor.io/profile/NicoPom
